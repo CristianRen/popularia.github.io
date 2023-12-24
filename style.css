@@ -3,6 +3,7 @@ body{
     display: grid;
     justify-content: center;
     align-items: center;
+    margin: 10%;
     
 }
 h1 {
@@ -12,5 +13,22 @@ h1 {
    align-items: center;
 }
 form{
-    font-size: medium;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+label{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    
+}
+h6{
+    display: grid;
+    align-content: end;
+    justify-content: center;
+    margin-top: 40%;
+   
+    
+    
 }
