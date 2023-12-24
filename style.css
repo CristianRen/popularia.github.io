@@ -1,0 +1,11 @@
+body{
+    background-color: aliceblue;
+    display: grid;
+    
+}
+h1 {
+    color: rgb(214, 3, 3);
+}
+form{
+    font-size: medium;
+}
