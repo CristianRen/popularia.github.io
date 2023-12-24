@@ -19,8 +19,8 @@ function actualizarProductos() {
     productoDiv.innerHTML = `
       <p>${producto.nombre}: 
         <span id="contador-${index}">${producto.contador}</span>
-        <button onclick="incrementarContador(${index})">+1</button>
-        <button onclick="decrementarContador(${index})">-1</button>
+        <button onclick="incrementarContador(${index})">   + 1     </button> 
+        <button onclick="decrementarContador(${index})">   - 1     </button>
       </p>
     `;
     productosDiv.appendChild(productoDiv);

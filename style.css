@@ -27,8 +27,19 @@ h6{
     display: grid;
     align-content: end;
     justify-content: center;
-    margin-top: 40%;
-   
+    margin-top: 20%;
+       
+}
+div{
+    display: grid;
+    justify-content: center;
+    align-items: center;
     
+}
+p{
+    font-size: 20px;
+    
+}
+button{
     
 }
